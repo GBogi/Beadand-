@@ -1,0 +1,99 @@
+body {
+    color:white;
+    font-family: "Times New Roman", Georgia, Serif;
+    background-image: url("hatter.jpg");
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+     
+    }  
+
+.login { 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: 20px;
+	height:330px;
+	width:290px;
+	border: 8px #ffffff solid;
+	padding: 20px;
+    text-align: center;
+    font-family: fantasy;
+    align-content: center;
+    vertical-align: middle;
+}
+.login2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: 50px;
+    	height:430px;
+	width:390px;
+        border:7px black solid;
+	padding: 10px;
+    align-content: center;
+    vertical-align: middle;
+    text-align: center;
+    font-family: fantasy;
+
+    
+}
+.login input{ 
+	padding:5px;
+	margin:5px;
+       
+ }
+
+.login input.logbe{
+    font-size: 12px;
+    
+}
+
+.login h3 {
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+.login h1 {
+    font-family: serif;
+    font-weight: normal;
+}
+
+.login input.gomb {
+    background-color: white;
+    width: 130px;
+    height: 30px;
+    border-style: none;
+    font-size: 16px;
+    border-radius: 10px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+.login input.gomb:hover {
+    background-color: black;
+    color: white;
+}
+
+.login p.reggelj {
+    
+    font-style: italic;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+
+.login p.reggelj a {
+    font-family: serif;
+    font-style: italic;
+    background-color:white;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.login p.reggelj a:hover {
+    background-color: black;
+    color: white;
+}

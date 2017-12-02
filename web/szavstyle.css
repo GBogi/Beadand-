@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-position: center down;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("road.jpg");
+ 
+}
+
+h1, h2 {text-align: center;}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #454444;
+        font-family: "Times New Roman", Georgia, Serif;
+}
+nav ul li {
+	float: left;
+}
+nav ul li a {
+	display: inline-block;
+        color: #ffffff;
+	text-align: center;
+	padding: 20px 85px 20px 85px;
+	text-decoration: none;
+        
+}
+nav ul li #jelenlegi {
+    color: #ffcc99;
+	font-weight: bold;
+}
+nav li a:hover {
+	background-color: #111;
+	color: #ebdeb1;}
+
+
+        
+table { position: center;
+ padding: 30px;
+border: none;}   
+
+
+tr {padding: 30px;}
+
+td  {border:groove 5px #111;
+margin: 10px;}
